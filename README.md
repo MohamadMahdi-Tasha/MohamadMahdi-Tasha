@@ -7,10 +7,9 @@ Junior Front End Developer
 Im junior a Front End developer with deep knowledge in front-end development. I have 1 years of professional experience in developing mid websites and web applications based on web standard technologies. i love game, design, code, cooking And Like To Work With Team And Grow
 
 * 🌍  I'm based in Iran, Tehran
-* 🖥️  See my portfolio at [My Portfolio](https://github.com/MohamadMahdi-Tasha/portfolio/)
 * ✉️  You can contact me at [imwhdiiii@gmail.com](mailto:imwhdiiii@gmail.com)
-* 🚀  I'm currently working on [CityNet](https://github.com/MohamadMahdi-Tasha/CityNet)
-* 🧠  I'm Currently learning React + Redux
+* 🚀  I'm currently working on [Clone of threads](https://github.com/MohamadMahdi-Tasha/threads-clone)
+* 🧠  I'm Currently learning Next.js
 * 🤝  I'm open to collaborating on Front End Projects
 
 ### Skills
