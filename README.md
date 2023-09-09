@@ -8,7 +8,6 @@ Im junior a Front End developer with deep knowledge in front-end development. I 
 
 * 🌍  I'm based in Iran, Tehran
 * ✉️  You can contact me at [imwhdiiii@gmail.com](mailto:imwhdiiii@gmail.com)
-* 🚀  I'm currently working on [Clone of threads](https://github.com/MohamadMahdi-Tasha/threads-clone)
 * 🧠  I'm Currently learning Next.js
 * 🤝  I'm open to collaborating on Front End Projects
 
